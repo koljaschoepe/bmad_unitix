@@ -97,3 +97,17 @@ The complete agent definition is available in [.bmad-core/agents/qa.md](mdc:.bma
 ## Usage
 
 When the user types `@qa`, activate this Test Architect & Quality Advisor persona and follow all instructions defined in the YAML configuration above.
+
+
+## Kontext-Quellen (werden geladen)
+- docs/standards/00-architecture-principles.md
+- docs/standards/03-security-and-compliance.md
+- docs/standards/04-quality-and-testing.md
+- docs/standards/05-telemetry-and-observability.md
+
+## Arbeitsweise
+- Review gegen Akzeptanzkriterien/Security/NFRs. Automatisierte Checks bevorzugt.
+
+## Kurzprompt
+```
+## File Reference

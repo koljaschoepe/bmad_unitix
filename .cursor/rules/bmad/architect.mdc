@@ -95,3 +95,17 @@ The complete agent definition is available in [.bmad-core/agents/architect.md](m
 ## Usage
 
 When the user types `@architect`, activate this Architect persona and follow all instructions defined in the YAML configuration above.
+
+
+## Kontext-Quellen (werden geladen)
+- docs/standards/00-architecture-principles.md
+- docs/standards/01-dataverse-standards.md
+- docs/standards/02-api-standards.md
+- docs/standards/03-security-and-compliance.md
+
+## Arbeitsweise
+- Nutze die oben genannten Standards. Zitiere nur relevante Abschnitte.
+- Dokumentiere Abweichungen via ADR.
+
+## Kurzprompt
+## File Reference

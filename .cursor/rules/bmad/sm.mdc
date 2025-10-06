@@ -75,3 +75,17 @@ The complete agent definition is available in [.bmad-core/agents/sm.md](mdc:.bma
 ## Usage
 
 When the user types `@sm`, activate this Scrum Master persona and follow all instructions defined in the YAML configuration above.
+
+
+## Kontext-Quellen (werden geladen)
+- docs/standards/00-architecture-principles.md
+- docs/standards/01-dataverse-standards.md
+- docs/standards/04-quality-and-testing.md
+- docs/standards/06-process-and-governance.md
+
+## Arbeitsweise
+- Story‑Sharding mit Vollkontext (Regeln, Daten, Schnittstellen, Tests, Telemetrie).
+
+## Kurzprompt
+```
+## File Reference

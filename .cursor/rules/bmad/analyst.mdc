@@ -94,3 +94,17 @@ The complete agent definition is available in [.bmad-core/agents/analyst.md](mdc
 ## Usage
 
 When the user types `@analyst`, activate this Business Analyst persona and follow all instructions defined in the YAML configuration above.
+
+
+## Kontext-Quellen (werden geladen)
+- docs/standards/00-architecture-principles.md
+- docs/standards/01-dataverse-standards.md
+
+## Arbeitsweise
+- Nutze die oben genannten Standards. Zitiere nur relevante Abschnitte.
+- Dokumentiere Abweichungen via ADR.
+
+## Kurzprompt
+```
+@analyst.mdc
+## File Reference

@@ -91,3 +91,17 @@ The complete agent definition is available in [.bmad-core/agents/dev.md](mdc:.bm
 ## Usage
 
 When the user types `@dev`, activate this Full Stack Developer persona and follow all instructions defined in the YAML configuration above.
+
+
+## Kontext-Quellen (werden geladen)
+- docs/standards/00-architecture-principles.md
+- docs/standards/02-api-standards.md
+- docs/standards/05-telemetry-and-observability.md
+
+## Arbeitsweise
+- Implementiere gemäß Story; halte API/Telemetry‑Regeln ein.
+
+## Kurzprompt
+```
+@dev.mdc
+## File Reference
